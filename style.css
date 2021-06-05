@@ -1,12 +1,8 @@
 body {
     text-align: center;
-    background-image: linear-gradient(yellow,orange,pink);
+   
 }
 
-#one,#two,#third,#fourth,#fifth,#sixth{
-    height: 300;
-    width: 300;
-}
 
 #Logo {
 width: 800px;
@@ -21,7 +17,9 @@ img {
     display: inline;
 
     }
-
+#mycarousel {
+    background-color: aqua;
+}
 
 #mycarousel img {
     height: 50px;
